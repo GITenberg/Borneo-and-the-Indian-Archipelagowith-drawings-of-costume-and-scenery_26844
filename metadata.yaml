@@ -1,0 +1,30 @@
+_repo: Borneo-and-the-Indian-Archipelagowith-drawings-of-costume-and-scenery_26844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frank
+    alias: Marryat, Francis Samuel
+    birthdate: 1826
+    deathdate: 1855
+    gutenberg_agent_id: '32270'
+    url: http://www.gutenberg.org/2009/agents/32270
+description: ''
+gutenberg_issued: '2008-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malay Archipelago -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Borneo -- Description and travel'
+title: 'Borneo and the Indian Archipelago
+
+  with drawings of costume and scenery'
+url: http://www.gutenberg.org/ebooks/26844
